@@ -1,3 +1,11 @@
-A simple upload script for your website. It allows users to contact you and it is sent to your email address which is defined at the top of the code.
+##################################################################################
+#       This was made by Liamonicles, this notice doesn't have to stay!                                         #
+##################################################################################
 
-Feel free to use this as long as the credits remain the same.
+Information -
+
+1) This is just a really simple contact system that you can use for your website.
+2) Please open the form and change the MY_EMAIL value (the bit between the speech marks) to your email.
+
+Credits -
+Myself.
